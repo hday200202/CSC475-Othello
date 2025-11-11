@@ -1,4 +1,5 @@
 # Othello + MiniMax Implementation
+## Harrison Day 11/10/25
 
 ## Features
 - Enable Black AI, White AI, both, or neither (human vs human)
